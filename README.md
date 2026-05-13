@@ -21,7 +21,7 @@ Your proxy will now be active and accepting connections.
 
 ---
 
-## 🐉 ProxyDragonFREE - Proxy Rápido com Suporte Multi-Cliente
+## 🐉 Proxy - Proxy Rápido com Suporte Multi-Cliente
 
 ### 📦 Como Instalar
 
