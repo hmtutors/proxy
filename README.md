@@ -7,7 +7,7 @@
 
 ```bash
 git clone https://github.com/hmtutors/proxy.git
-cd ProxyDragonFREE
+cd proxy
 chmod +x *
 ./proxy.sh
 ```
@@ -29,7 +29,7 @@ Your proxy will now be active and accepting connections.
 
 ```bash
 git clone https://github.com/hmtutors/proxy.git
-cd ProxyDragonFREE
+cd proxy
 chmod +x *
 ./proxy.sh
 ```
