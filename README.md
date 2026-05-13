@@ -1,5 +1,5 @@
 
-## 🐉 ProxyDragonFREE - Fast Multi-Client Proxy
+## 🐉 Proxy - Fast Multi-Client Proxy
 
 ### 📦 How to Install
 
