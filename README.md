@@ -6,7 +6,7 @@
 **Step-by-step:**
 
 ```bash
-git clone https://github.com/Penguinehis/ProxyDragonFREE.git
+git clone https://github.com/hmtutors/proxy.git
 cd ProxyDragonFREE
 chmod +x *
 ./proxy.sh
@@ -28,7 +28,7 @@ Your proxy will now be active and accepting connections.
 **Passo a passo:**
 
 ```bash
-git clone https://github.com/Penguinehis/ProxyDragonFREE.git
+git clone https://github.com/hmtutors/proxy.git
 cd ProxyDragonFREE
 chmod +x *
 ./proxy.sh
